@@ -1,4 +1,5 @@
 # Prediction-of-GESTATIONAL-DIABETES-PROGNOSTICATION
+## Read PPT for More information 
  The Data Analysis (DA) is conducted to understand the various data sources and collected the
 
 contextualized Pima Indians Diabetes dataset from the UCI repository.
